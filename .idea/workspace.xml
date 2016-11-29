@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Ceaser Cypher.py" line="78" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31596021-b77f-479b-9ae8-3bcea290fb95" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ceaser Cypher.py" afterPath="$PROJECT_DIR$/Ceaser Cypher.py" />
-    </list>
+    <list default="true" id="31596021-b77f-479b-9ae8-3bcea290fb95" name="Default" comment="" />
     <ignored path="Documents-Programming-Github-breaking-the-code-al58ba82.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="Ceaser Cypher.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ceaser Cypher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -359,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ceaser Cypher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding />
         </state>
       </provider>
